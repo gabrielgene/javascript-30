@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+*.log
+haters/
+.idea/javascript-30.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/
